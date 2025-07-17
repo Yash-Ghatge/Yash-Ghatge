@@ -20,7 +20,7 @@
 
 ## ![about](https://img.shields.io/badge/-About_Me-000?style=flat-square&logo=About.me)
 
-🎓 **B.Sc IT Graduate** | 💻 **Full-Stack Developer** | 🤖 **AI Explorer**
+🎓 **B.Sc IT Graduate** | 💻 **Full-Stack Developer** | 🤖 **AI Explorer** | 💻 **Python Developer** | 🧪 **Software Tester**
 
 > "I blend logic with creativity to build digital experiences that matter"
 
